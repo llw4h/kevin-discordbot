@@ -1,0 +1,24 @@
+{
+  "name": "mister-handy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/llw4h/mister-handy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/llw4h/mister-handy/issues"
+  },
+  "homepage": "https://github.com/llw4h/mister-handy#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^9.0.2",
+    "node-fetch": "^2.6.1"
+  }
+}
